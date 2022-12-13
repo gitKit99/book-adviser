@@ -20,5 +20,12 @@ User interface supports 2 languages: English( default ) and Ukrainian.
 
 ----------------------------------------------------------------------------------------------------------
 
+Stack of used technologies:
+
+DB: PostgreSQL
+Backend: Django framework (Python)
+Frontend: Angular framework (Typescript), SCSS, Bootstrap
+
+
 Database scheme:
 ![image](https://user-images.githubusercontent.com/58745562/207330539-50a7df77-2047-4581-b57d-effe5a761c1e.png)
